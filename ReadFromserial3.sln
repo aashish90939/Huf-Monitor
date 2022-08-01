@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromserial3", "ReadFromserial3\ReadFromserial3.csproj", "{B32230B7-FEC6-406E-A932-7D88FAE964F6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Huf_monitor_1", "Huf_monitor_1\Huf_monitor_1.vdproj", "{0D49E0D3-0F60-4BCD-AA26-B7D31BF037D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32230B7-FEC6-406E-A932-7D88FAE964F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32230B7-FEC6-406E-A932-7D88FAE964F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32230B7-FEC6-406E-A932-7D88FAE964F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32230B7-FEC6-406E-A932-7D88FAE964F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D49E0D3-0F60-4BCD-AA26-B7D31BF037D0}.Debug|Any CPU.ActiveCfg = Debug
+		{0D49E0D3-0F60-4BCD-AA26-B7D31BF037D0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C2EB1D-FBBF-441F-8DEC-B049349C2E70}
+	EndGlobalSection
+EndGlobal
